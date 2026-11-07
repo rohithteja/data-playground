@@ -1,0 +1,147 @@
+[
+  {
+    "file": "1. Engineering Tools/slides/cm2_environments.pdf",
+    "pages": 30,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "1. Engineering Tools/slides/main.pdf",
+    "pages": 61,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "2. Introduction to Python/slides/Intro_to_Python_CI_Guided_Practice_CI1-CI3.pptx",
+    "pages": 48,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "2. Introduction to Python/slides/Intro_to_Python_CM_Lectures_CM1-CM3.pptx",
+    "pages": 129,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "2. Introduction to Python/slides/Intro_to_Python_TP_Autonomous_Practice_TP1-TP3.pptx",
+    "pages": 35,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "3. Data & Analytics Ecosystem- Alaa Bakthi/slides/1. DAE - Data & Analytics Ecosystem/1. Data & Analytics Ecosystem - From a Question to Clean Data - BAKHTI Alaa.pdf",
+    "pages": 21,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "3. Data & Analytics Ecosystem- Alaa Bakthi/slides/1. DAE - Data & Analytics Ecosystem/2. Data & Analytics Ecosystem - From Data to an Answer - BAKHTI Alaa.pdf",
+    "pages": 25,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "3. Data & Analytics Ecosystem- Alaa Bakthi/slides/1. DAE - Data & Analytics Ecosystem/3. Data & Analytics Ecosystem - What a Model Is - BAKHTI Alaa.pdf",
+    "pages": 39,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "3. Data & Analytics Ecosystem- Alaa Bakthi/slides/1. DAE - Data & Analytics Ecosystem/4. Data & Analytics Ecosystem - Does It Work - BAKHTI Alaa.pdf",
+    "pages": 21,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "4. Probabilistic Reasoning/slides/lectures1.pdf",
+    "pages": 72,
+    "pagesWithoutText": 72
+  },
+  {
+    "file": "4. Probabilistic Reasoning/slides/lectures2.pdf",
+    "pages": 125,
+    "pagesWithoutText": 125
+  },
+  {
+    "file": "4. Probabilistic Reasoning/slides/lectures3.pdf",
+    "pages": 161,
+    "pagesWithoutText": 161
+  },
+  {
+    "file": "5. Harmonization/slides/General/D1 · Harmonisation Week · Day 1 · Thinking like a machine.pdf",
+    "pages": 71,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/General/D2 · Harmonisation Week · Day 2 · Functions & data structures.pdf",
+    "pages": 86,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/General/D3 - Harmonisation Week · Day 3 · Python, from pseudo-code to scripts.pdf",
+    "pages": 80,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/General/D4 - Harmonisation Week · Day 4 · Python, data structures for real.pdf",
+    "pages": 56,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/General/D5 - Harmonisation Week · Day 5 · OS, virtualisation & Docker.pdf",
+    "pages": 76,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/se-dsa/D1 - Harmonisation Week · Day 1 · Thinking like a machine - EPITA - Élèves - v2.pdf",
+    "pages": 71,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/se-dsa/D2 - Harmonisation Week · Day 2 · Functions & data structures - EPITA - Élèves - v2.pdf",
+    "pages": 86,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/se-dsa/D3 - Harmonisation Week · Day 3 · Python, from pseudo-code to scripts - EPITA - Élèves - v2.pdf",
+    "pages": 80,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/se-dsa/D4 - Harmonisation Week · Day 4 · Python, data structures for real - EPITA - Élèves - v2.pdf",
+    "pages": 56,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "5. Harmonization/slides/se-dsa/D5 - Harmonisation Week · Day 5 · OS, virtualisation & Docker - EPITA - Élèves - v2.pdf",
+    "pages": 76,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "7. Algorithms & Data Structures/Slides/DSA Lecture 1 Complexity, Arrays, Recursion.pdf",
+    "pages": 48,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "7. Algorithms & Data Structures/Slides/DSA Lecture 2 Recursion and Sorting.pdf",
+    "pages": 29,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "8. Mathematics for Machine Learning/slides/MML_Lecture_1_Visual (21).pdf",
+    "pages": 140,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "8. Mathematics for Machine Learning/slides/MML_Lecture_2_Slides (4).pdf",
+    "pages": 116,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "9. Exploratory Data Analysis - Ismail/slides/cm1_eda.pdf",
+    "pages": 30,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "9. Exploratory Data Analysis - Ismail/slides/cm2_eda.pdf",
+    "pages": 30,
+    "pagesWithoutText": 0
+  },
+  {
+    "file": "9. Exploratory Data Analysis - Ismail/slides/cm3_eda.pdf",
+    "pages": 30,
+    "pagesWithoutText": 0
+  }
+]
